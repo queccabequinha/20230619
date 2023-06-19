@@ -1,0 +1,39 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+section {
+    display: flex;
+}
+
+div {
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+}
+.mes div {
+    width: 280px;
+}
+ 
+.dia div {
+    width: 40px;
+}
+#oito  {
+    color:green
+}
+
+#amarelo {
+    color: red;
+    background-color: yellow;
+}
+#purple  {
+    color: purple;
+    background-color: blueviolet;
+}
+#semana  {
+    color: black;
+    background-color: gray;
+}
